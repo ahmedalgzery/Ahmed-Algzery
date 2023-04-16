@@ -1,6 +1,6 @@
 ### Hi there 👋, Ahmed Algzery
 #### I am Flutter Developer
-![I am Flutter Developer](https://avatars.githubusercontent.com/u/91349139?s=400&u=c93c071c983785598c7d0d060c3701cae2a87ff8&v=4)
+![I am Flutter Developer]([https://avatars.githubusercontent.com/u/91349139?s=400&u=c93c071c983785598c7d0d060c3701cae2a87ff8&v=4](https://media.licdn.com/dms/image/D4D16AQHX-zk5bveGvQ/profile-displaybackgroundimage-shrink_350_1400/0/1666355127487?e=1687392000&v=beta&t=-dmbWQA66AAKQfu9G3NJw3gIrF174N97S6bm6YzBNK0))
 
 I'm a Flutter mobile dev specializing in C platform. I integrate apps with local DBs and APIs, and focus on performance, quality, and responsiveness. I also have front-end skills and use clean code and agile methodologies.
 
