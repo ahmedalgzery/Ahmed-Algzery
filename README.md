@@ -23,6 +23,6 @@ Skills: Flutter / Dart / C++ / Java / Node js
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedalgzery)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)  
+![GitHub metrics](https://metrics.lecoq.io/ahmedalgzery)  
 
 ![Profile views](https://gpvc.arturio.dev/ahmedalgzery)  
