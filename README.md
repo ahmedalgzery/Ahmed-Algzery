@@ -21,8 +21,6 @@ Skills: Flutter / Dart / C++ / Java / Node js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedalgzery)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ahmedalgzery)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)  
