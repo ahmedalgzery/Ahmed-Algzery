@@ -4,7 +4,7 @@
 
 I'm a Flutter mobile dev specializing in C platform. I integrate apps with local DBs and APIs, and focus on performance, quality, and responsiveness. I also have front-end skills and use clean code and agile methodologies.
 
-#### Skills: Flutter / Dart / C++ / Java / Node js
+### Skills: Flutter / Dart / C++ / Java / Node js
 
 - 🔭 I’m currently working on Alx_africa 
 - 🌱 I’m currently learning Flutter 
