@@ -23,6 +23,6 @@ I'm a Flutter mobile dev specializing in C platform. I integrate apps with local
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/ahmedalgzery)   -->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)  
+<center>![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)  </center>
 
 ![Profile views](https://gpvc.arturio.dev/ahmedalgzery)  
