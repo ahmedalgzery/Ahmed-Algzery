@@ -17,7 +17,7 @@ I'm a Flutter mobile dev specializing in C platform. I integrate apps with local
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedalgzery)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true)\t\t\t[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalgzery)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true)<t>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalgzery)](https://github.com/anuraghazra/github-readme-stats) 
 
  
 
