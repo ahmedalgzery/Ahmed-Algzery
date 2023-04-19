@@ -32,7 +32,7 @@ I'm a Flutter mobile dev specializing in C platform. I integrate apps with local
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)
 
 
-</P>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
