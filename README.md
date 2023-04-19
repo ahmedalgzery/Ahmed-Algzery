@@ -1,9 +1,9 @@
 ### Hi there 👋, Ahmed Algzery
 #### I am Flutter Developer
-![I am Flutter Developer]
+
 
 ![Profile views](https://gpvc.arturio.dev/ahmedalgzery)  
-<p align ="center">
+
 I'm a Flutter mobile dev specializing in C platform. I integrate apps with local DBs and APIs, and focus on performance, quality, and responsiveness. I also have front-end skills and use clean code and agile methodologies.
 
 ### Skills: Flutter / Dart / C++ / Java / Node js
@@ -32,9 +32,9 @@ I'm a Flutter mobile dev specializing in C platform. I integrate apps with local
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)
 
 
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+#Languages and Tools
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
