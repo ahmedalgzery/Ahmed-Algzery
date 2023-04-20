@@ -47,9 +47,6 @@
 ## GitHub Profile Trophy
 <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=ahmedalgzery" alt="Algzery" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedalgzery)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ## 💻 GitHub Profile Stats
 
