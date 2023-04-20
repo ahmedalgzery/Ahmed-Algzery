@@ -5,13 +5,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/ahmedalgzery)  
 
-I'm a Flutter mobile dev specializing in C platform. I integrate apps with local DBs and APIs, and focus on performance, quality, and responsiveness. I also have front-end skills and use clean code and agile methodologies.
 
-### Skills: Flutter / Dart / C++ / Java / Node js
 
 - 🔭 I’m currently Intern on **Alx_africa** 
 - 🌱 I’m currently **Mobile Developer (Flutter)**
 - 📫 How to reach me **algzeryahmed@gmail.com**
+
+### Skills: Flutter / Dart / C++ / Java / Node js
 
 
 <hr>
