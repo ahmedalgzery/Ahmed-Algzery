@@ -32,7 +32,7 @@
 ## 💻 GitHub Profile Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true)
-
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true" alt="eman1-2-3" /></p>
 <hr>
 <br>
 
@@ -43,7 +43,7 @@
 
 ## 👉 Streak Stats
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)
+
 <p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=ahmedalgzery" style="display: block;">
 
 
