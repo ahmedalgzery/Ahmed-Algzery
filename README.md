@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Ahmed Algzery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student;Mobile+ developer+(Flutter);Software+Engineer+at+Alx" alt="Typing SVG" /></a></p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student;Mobile+Developer+(Flutter);Software+Engineer+Intern+at+Alx" alt="Typing SVG" /></a>
 ![Profile views](https://gpvc.arturio.dev/ahmedalgzery)  
 
 
