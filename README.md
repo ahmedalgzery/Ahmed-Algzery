@@ -32,9 +32,10 @@
 ## 💻 GitHub Profile Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true)
+
+
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true" alt="eman1-2-3" /></p>
-<hr>
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalgzery)](https://github.com/anuraghazra/github-readme-stats) 
 
