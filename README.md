@@ -44,7 +44,7 @@
 ## 👉 Streak Stats
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedalgzery)
-
+<p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=ahmedalgzery" style="display: block;">
 
 
 <hr>
