@@ -1,6 +1,7 @@
-### Hi there 👋, Ahmed Algzery
-#### I am Flutter Developer
+<h1 align="center">Hi , I'm Ahmed Algzery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student;Mobile +developer+(Flutter);Software+Engineer+at+Alx" alt="Typing SVG" /></a></p>
 
 ![Profile views](https://gpvc.arturio.dev/ahmedalgzery)  
 
@@ -8,10 +9,13 @@ I'm a Flutter mobile dev specializing in C platform. I integrate apps with local
 
 ### Skills: Flutter / Dart / C++ / Java / Node js
 
-- 🔭 I’m currently working on Alx_africa 
-- 🌱 I’m currently learning Flutter 
-- 💬 Ask me about Flutter 
+- 🔭 I’m currently Intern on **Alx_africa** 
+- 🌱 I’m currently **Mobile Developer (Flutter)**
+- 📫 How to reach me **algzeryahmed@gmail.com**
 
+
+<hr>
+<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedalgzery)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/%D9%90%D9%90ahmed-algzery//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100014851561834)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmed_algzery_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ahmed__Algzery)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.instagram.com/ahmed_algzery_/)  
 
