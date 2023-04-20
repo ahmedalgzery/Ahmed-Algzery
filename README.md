@@ -32,7 +32,8 @@
 
 <hr>
 <br>
-
+## 💻 GitHub Profile Stats
+<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalgzery&show_icons=true&count_private=true)
 
 <hr>
