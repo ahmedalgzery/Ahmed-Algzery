@@ -43,8 +43,7 @@
 <p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=ahmedalgzery" style="display: block;">
 
 
-<hr>
-<br>
+
 
 # Languages and Tools
 <p align="center">
@@ -59,8 +58,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
 </p>
 
-<hr>
-<br>
+
 
 # Current OS.
 <div align="center">
