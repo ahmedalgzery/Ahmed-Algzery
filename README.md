@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Intern on **Alx_africa** 
 - 🌱 I’m currently **Mobile Developer (Flutter)**
-- 📫 How to reach me **algzeryahmed@gmail.com
+- 📫 How to reach me **algzeryahmed@gmail.com**
 
 
 
