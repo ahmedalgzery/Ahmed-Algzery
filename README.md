@@ -86,5 +86,5 @@
 <img src="https://img.shields.io/badge/-Windows-294172?style=for-the-badge&logo=windows"/>
 </div>
 </br>
-
-<a href="https://github.com/ahmedalgzery/github-readme-activity-graph"><img alt="ahmedalgzery Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ahmedalgzery&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+# Ahmed Algzery Graph.
+<a href="https://github.com/ahmedalgzery/github-readme-activity-graph"><img alt=" Ahmed Algzery Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ahmedalgzery&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
