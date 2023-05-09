@@ -56,7 +56,6 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalgzery" alt="Algzery" /></p>
 
-<a href="https://github.com/ahmedalgzery/github-readme-activity-graph"><img alt="ahmedalgzery Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ahmedalgzery&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## 👉 Streak Stats
 
@@ -86,3 +85,6 @@
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Windows-294172?style=for-the-badge&logo=windows"/>
 </div>
+</br>
+
+<a href="https://github.com/ahmedalgzery/github-readme-activity-graph"><img alt="ahmedalgzery Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ahmedalgzery&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
