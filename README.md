@@ -55,10 +55,8 @@
 
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalgzery" alt="Algzery" /></p>
-<p align="left"> <img src=https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg
-<p align="left"> <img src= https://github.com/BEPb/BEPb/blob/main/profile-3d-contrib/profile-green-animate.svg
-profile-3d-contrib/profile-south-season.svg
-<a href="https://github.com/ahmedalgzery/github-readme-activity-graph"><img alt="salihabrik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=salihabrik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/ahmedalgzery/github-readme-activity-graph"><img alt="ahmedalgzery Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ahmedalgzery&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## 👉 Streak Stats
 
