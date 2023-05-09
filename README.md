@@ -56,7 +56,7 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalgzery" alt="Algzery" /></p>
 
-
+<a href="https://github.com/ahmedalgzery/github-readme-activity-graph"><img alt="salihabrik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=salihabrik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## 👉 Streak Stats
 
