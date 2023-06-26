@@ -3,10 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+science+student;Flutter+Developer" alt="Typing SVG" /></a> </p>
 
 
-![Profile views](https://gpvc.arturio.dev/ahmedalgzery)  
-
-
-
 - 🌱 I’m currently **Mobile Developer (Flutter)**
 - 📫 How to reach me **algzeryahmed14@gmail.com**
 
