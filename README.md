@@ -14,7 +14,7 @@
   <img align="center"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' /> 
 </a>
 
-<a href="https://www.linkedin.com/in/%D9%90%D9%90ahmed-algzery//"  style="display:block">
+<a href="https://www.linkedin.com/in/%D9%90%D9%90ahmed-algzery/"  style="display:block">
   <img align="center"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' /> 
 </a>
 
